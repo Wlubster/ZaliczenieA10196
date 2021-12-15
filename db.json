@@ -1,0 +1,52 @@
+{
+  "Games": [
+    {
+      "GameName": "Cs:go",
+      "GameId": 321,
+      "Price": 90,
+      "GameTag": "FPS",
+      "id": 321
+    },
+    {
+      "GameName": "League of Legends",
+      "GameId": "11",
+      "Price": "0.0",
+      "GameTag": "MOBA",
+      "id": 322
+    }
+  ],
+  "Users": [
+    {
+      "UserName": "Marek",
+      "GamerTag": "MarekKrzym",
+      "UserId": "10196",
+      "HoursTotal": "1337",
+      "GameOwn": "2137",
+      "id": 1
+    },
+    {
+      "UserName": "Marek",
+      "GamerTag": "Zaliczenie",
+      "UserId": "5",
+      "HoursTotal": "10",
+      "GameOwn": "5",
+      "id": 2
+    }
+  ],
+  "Library": [
+    {
+      "GamerTag": "Button",
+      "GameId": 22,
+      "HoursInGame": 231,
+      "Achievements": 1,
+      "id": 22
+    },
+    {
+      "GameName": "Cs:go",
+      "GameId": "23",
+      "Price": "3124",
+      "GameTag": "4",
+      "id": 23
+    }
+  ]
+}
