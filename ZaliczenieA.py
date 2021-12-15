@@ -150,7 +150,7 @@ def main():
     x = 0
     type = str
     while x != 9:
-
+        print("9. EXIT")
         print("1. Add games")
         print("2. Add User")
         print("3. Add Library")
